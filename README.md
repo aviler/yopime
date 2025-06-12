@@ -2,6 +2,9 @@
 
 # Building Yocto + Mender for Rock Pi S: Complete OTA System Updates
 
+# Project Update
+Unfortunately I could only found one Yocto layer that could give us support for rockchip boards and that one only supports RockPi C4+. So yeah it makes this article here invalid. I am keeping it for now while I find another board to try out Mender. And/or leave Mender for future article and focus in at least building Yocto for Rock Pi S with no Mender support so at least I can reach the end of the bitbaking =)
+
 ## Project Overview
 Creating a Yocto project for Rock Pi S with Mender.io integration for full Linux system OTA updates.
 
